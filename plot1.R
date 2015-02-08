@@ -37,7 +37,7 @@ class(data_subsets$Date_Time)
 # Create the first Plot for the assignment.  The plot should have columns that are red with at title of Global Active Power
 # and kilowats along the X axis.  
 
-png(filename = "plot1.png", width = 480, height = 480, units = "px", bg = "white")
+png(filename = "plot1.png", width = 500, height = 500, units = "px", bg = "white")
 
 par(mar = c(6, 6, 5, 4))
 

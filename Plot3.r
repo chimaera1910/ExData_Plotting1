@@ -26,7 +26,7 @@ SubMeter3 <- as.numeric(data_subset$Sub_metering_3)
 #The colors should match the color of the lines.
   
 
-png(filename = "plot3.png", width = 480, height = 480)
+png(filename = "plot3.png", width = 500, height = 500)
 
 par(mar = c(6, 6, 5, 4))
 

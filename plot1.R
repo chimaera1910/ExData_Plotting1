@@ -1,7 +1,6 @@
 ## This code is for the first plot of the first project in the Exploratory Data Analysis
 
 
-## Load the data.table library
 ## download the file from the coursera website, unzip and save the text file in your working directory
 
 # Read the data into the variable powerdata

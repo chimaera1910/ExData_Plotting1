@@ -21,7 +21,7 @@ GAP <- as.numeric(data_subset$Global_active_power)
 
 # Create the second plot for the assignment.  The plot should have no title and say Global Active Power (kilowatts) on the Y axis.   
 
-png(filename = "plot2.png", width = 480, height = 480, units = "px", bg = "white")
+png(filename = "plot2.png", width = 500, height = 500, units = "px", bg = "white")
 
 par(mar = c(6, 6, 5, 4))
 
